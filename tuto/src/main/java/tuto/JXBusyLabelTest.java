@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import org.jdesktop.swingx.JXBusyLabel;
-/** rgsrtfdqzdsfgfgdsggfdfsfdsdfs*/
+/** rgsrtfdqzdsfgfgdsggfdfsfdsdwxcdwxcfs*/
 public class JXBusyLabelTest extends JFrame implements ActionListener {
 
   JXBusyLabel bLabel1;
